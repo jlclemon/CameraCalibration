@@ -6,7 +6,7 @@ CPPFILES= StereoCameraCalibration.cpp CameraCalibration.cpp
 CCFILES= 
 CFILES= 
 FILES = $(CPPFILES) $(CCFILES) $(CFILES)
-EXECUTABLEBASE=CameraCalibration.cpp
+EXECUTABLEBASE=CameraCalibration
 #-------
 MAIN= main.cpp
 HEADERS=
